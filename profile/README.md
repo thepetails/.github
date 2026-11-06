@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./thepetails-avatar.png" alt="The Petails" width="160">
+  <img src="./thepetails-avatar.png" alt="The Petails" width="140">
 </p>
 
 <h2 align="center">We're building Periquito.</h2>
 
 <p align="center">
-An agentic storyteller that turns the life of a real, specific animal<br>
-into a book a family keeps forever.
+An agentic storyteller that turns the life of a real, specific animal into a book a family keeps forever.<br>
+Named after a real dog. Invents the form, never the facts.
 </p>
 
 <p align="center">
@@ -17,24 +17,6 @@ into a book a family keeps forever.
 
 ---
 
-### Meet Periquito
+**Open from The Petails.** We'll share the boring parts we got right. First up: how we ship Cloudflare Workers only from GitHub, with tests green, every version tagged and the rollback saved before each deploy.
 
-Periquito is a real dog, and the name of the system we're building in that dog's honor: a chain of agents that **listens**, **remembers** and **makes**.
-
-```
-the family talks  ─▶  Periquito listens   (a chat that learns who this animal is)
-                  ─▶  Periquito remembers (the facts, the quirks, the names, never invented)
-                  ─▶  Periquito makes     (story, illustrations, the book)
-```
-
-You can't buy Periquito as a product yet. Today it writes books for real families, one pet at a time.
-
-### What we believe
-
-- **Curiosity.** The specific beats the typical. Periquito asks before it writes.
-- **Creativity.** Invent the form, never the facts. A missing detail is a question, not a guess.
-- **Honor.** We do it properly in the parts no one will inspect.
-
-The family is the author. The pet is the protagonist. Periquito is the press.
-
-<sub>Made in Miami · agents, illustrators and one very good dog.</sub>
+<sub>The family is the author. The pet is the protagonist. Periquito is the press.</sub>
