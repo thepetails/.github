@@ -17,6 +17,4 @@ Named after a real dog. Invents the form, never the facts.
 
 ---
 
-**Open from The Petails.** We'll share the boring parts we got right. First up: how we ship Cloudflare Workers only from GitHub, with tests green, every version tagged and the rollback saved before each deploy.
-
 <sub>The family is the author. The pet is the protagonist. Periquito is the press.</sub>
